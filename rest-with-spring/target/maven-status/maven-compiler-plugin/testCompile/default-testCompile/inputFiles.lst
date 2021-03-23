@@ -1,0 +1,2 @@
+/rest-with-spring/src/test/java/br/com/ewtm/converter/DozerConvertTest.java
+/rest-with-spring/src/test/java/br/com/ewtm/converter/mocks/MockPerson.java
